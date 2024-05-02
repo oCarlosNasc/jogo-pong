@@ -1,1 +1,1 @@
-# jogo-pong
+# jogopong-js
